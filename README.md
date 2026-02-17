@@ -3,18 +3,18 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=%3CSonu+Kumhar+-+MERN+Stack+Developer%2F%3E;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=%3CSonu+Kumhar+-+MERN+Stack+Developer%2F%3E;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
 </h1>
 
 <h3 align="center">Full Stack Developer | Backend & System Design Focused 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sonu-Kumhar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sonu-Kumhar&label=Profile%20Views&color=1F6FEB&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🚀 Full Stack Developer specializing in **MERN Stack**
 - 🧠 Strong interest in **Backend Development & System Design**
@@ -24,23 +24,43 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,js,html,css,tailwind,python,java,cpp,git,github,postman,vscode" />
 </p>
 
+---
 
-### 🧠 Current Focus
+## 🚀 Featured Projects
 
-- Backend performance optimization  
-- Database design & API architecture  
-- Scalable application structure  
-- System Design fundamentals  
+### 🔹 NotePilot – Smart Notes Manager  
+React-based notes manager with clean UI & state handling  
+👉 https://github.com/Sonu-Kumhar/notepilot  
 
 ---
 
-### 🌐 Connect With Me
+### 🔹 Desktop Assistant (Jarvis Inspired)  
+Voice-controlled automation tool with browser control  
+👉 https://github.com/Sonu-Kumhar/Desktop-Assistant  
+
+---
+
+### 🔹 Spotify Clone – Responsive UI  
+Frontend clone focused on layout precision  
+👉 https://github.com/Sonu-Kumhar/spotify-clone  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Kumhar&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sonu-kumhar">
