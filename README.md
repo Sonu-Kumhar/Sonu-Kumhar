@@ -32,33 +32,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 NotePilot – Smart Notes Manager  
-React-based notes manager with clean UI & state handling  
-👉 https://github.com/Sonu-Kumhar/notepilot  
-
----
-
-### 🔹 Desktop Assistant (Jarvis Inspired)  
-Voice-controlled automation tool with browser control  
-👉 https://github.com/Sonu-Kumhar/Desktop-Assistant  
-
----
-
-### 🔹 Spotify Clone – Responsive UI  
-Frontend clone focused on layout precision  
-👉 https://github.com/Sonu-Kumhar/spotify-clone  
-
----
-
-## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sonu-Kumhar&theme=react&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-Kumhar&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
