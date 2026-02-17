@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhxeTNicnp2aHE1ajB3bWE1dTZ4Mnp6d3BjZjRibzRubTdvdXVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" />
 </div>
 
 <h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhxeTNicnp2aHE1ajB3bWE1dTZ4Mnp6d3BjZjRibzRubTdvdXVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)font=Fira+Code&size=30&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=%3CSonu+Kumhar+-+MERN+Stack+Developer%2F%3E;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=%3CSonu+Kumhar+-+MERN+Stack+Developer%2F%3E;Backend+Focused+Engineer;Building+Scalable+Web+Applications" />
 </h1>
 
 <h3 align="center">Full Stack Developer | Backend & System Design Focused 🚀</h3>
