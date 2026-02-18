@@ -47,7 +47,15 @@
 ---
 
 ### 🛠 Tools & Deployment
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubpages,render,git,github,postman,vite,vscode" />
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vite,figma,vscode" />
+
+<br/>
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=flat&logo=render&logoColor=black)
+
 
 </div>
 
