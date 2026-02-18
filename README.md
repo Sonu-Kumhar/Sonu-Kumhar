@@ -16,11 +16,20 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer specializing in **MERN Stack**
-- 🧠 Strong interest in **Backend Development & System Design**
-- ⚙️ Focused on writing **clean, scalable & maintainable code**
-- 📈 Actively improving **DSA & problem-solving skills**
-- 🎯 Targeting **Product-based Engineering Roles**
+<div align="center">
+
+🚀 Full Stack Developer specializing in <b>MERN Stack</b>  
+
+🧠 Strong interest in <b>Backend Development & System Design</b>  
+
+⚙️ Focused on writing <b>clean, scalable & maintainable code</b>  
+
+📈 Actively improving <b>DSA & problem-solving skills</b>  
+
+🎯 Targeting <b>Product-based Engineering Roles</b>  
+
+</div>
+
 
 ---
 
