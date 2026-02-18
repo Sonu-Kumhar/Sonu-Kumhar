@@ -43,14 +43,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </div>
 
-### 🤖 AI/ML & Data Science
-<div>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
-</div>
-
-
 ---
 
 ## 📊 GitHub Stats
