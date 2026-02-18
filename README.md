@@ -27,40 +27,30 @@
 </div>
 
 ---
-
 ## 🛠 Technical Expertise
 
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=cpp, c, js, java"/>
 
 ---
 
-### 🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 
 ---
 
-### ⚙️ Backend Technologies
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
 ---
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
----
-
-### 🚀 Deployment & Hosting
-<img src="https://skillicons.dev/icons?i=vercel,netlify,githubpages,render" />
-
----
-
-### 🛠 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vite,figma,notion,vscode" />
+### 🛠 Tools & Deployment
+<img src="https://skillicons.dev/icons?i=vercel,netlify,githubpages,render,git,github,postman,vite,vscode" />
 
 </div>
+
 
 ---
 
