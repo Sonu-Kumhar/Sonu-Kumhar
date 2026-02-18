@@ -24,11 +24,32 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,c,cpp,git,github,postman,vscode" />
-</p>
+<div align="center">
+
+### 💻 Programming Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+</div>
+
+### 🎨 Frontend Technologies  
+<div>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</div>
+
+### ⚙️ Backend & Database
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</div>
+
+### 🤖 AI/ML & Data Science
+<div>
+  <img src="https://skillicons.dev/icons?i=python,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48"/>
+</div>
+
 
 ---
 
